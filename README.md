@@ -26,6 +26,9 @@ https://colab.research.google.com/notebooks/gpu.ipynb
 ### Data Source:
 https://www.kaggle.com/c/dog-breed-identification/data
 
+### Data Reimport:
+Reimport Data to "drive/MyDrive/Colab Notebooks/Dog Vision" in Google Drive
+
 **Note:** This colab notebook is running on Google GPU (See RAM and Disk info).
 * If the runtime disconnects, all of the data that we have stored on google's machines could be lost (e.g. data overflow).
 * If data is uploaded to colab and the runtime disconnects, you would lose everything that you were working on (not good).
